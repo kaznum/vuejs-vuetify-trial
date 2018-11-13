@@ -16,7 +16,7 @@
     </v-toolbar>
 
     <v-content>
-      <HelloWorld/>
+      <HelloWorld v-bind:extext="exampleText" />
     </v-content>
   </v-app>
 </template>
@@ -31,7 +31,7 @@ export default {
   },
   data () {
     return {
-      //
+      exampleText: 'Example Text'
     }
   }
 }
