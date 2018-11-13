@@ -1,29 +1,10 @@
 # vuejs-vuetify-trial
 
-## Project setup
-```
-npm install
-```
+https://vuetifyjs.com/ja/getting-started/quick-start
 
-### Compiles and hot-reloads for development
+# How to exec
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
